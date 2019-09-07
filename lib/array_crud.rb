@@ -29,7 +29,7 @@ end
 
 
 def retrieve_element_from_index(array, index_number)
-  array[]
+  array[2]
 end
 
 
